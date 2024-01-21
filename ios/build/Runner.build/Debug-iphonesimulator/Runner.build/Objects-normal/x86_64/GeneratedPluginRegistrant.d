@@ -18,6 +18,69 @@ dependencies: \
   /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
   /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
   /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/firebase_auth/firebase_auth.framework/Headers/FLTFirebaseAuthPlugin.h \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/firebase_auth/firebase_auth.framework/Modules/module.modulemap \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/ios/Pods/Firebase/CoreOnly/Sources/module.modulemap \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Modules/module.modulemap \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FirebaseCore-umbrella.h \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FIRApp.h \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FIRConfiguration.h \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FIRLoggerLevel.h \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FirebaseCore.h \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FIROptions.h \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FIRVersion.h \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Modules/module.modulemap \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FirebaseAuth-umbrella.h \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRActionCodeSettings.h \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAdditionalUserInfo.h \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuth.h \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthAPNSTokenType.h \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthErrors.h \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthCredential.h \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthDataResult.h \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthSettings.h \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthTokenResult.h \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthUIDelegate.h \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FirebaseAuth.h \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIREmailAuthProvider.h \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRFacebookAuthProvider.h \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRFederatedAuthProvider.h \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRGameCenterAuthProvider.h \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRGitHubAuthProvider.h \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRGoogleAuthProvider.h \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRMultiFactor.h \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRMultiFactorAssertion.h \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRMultiFactorInfo.h \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRMultiFactorSession.h \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRMultiFactorResolver.h \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIROAuthCredential.h \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIROAuthProvider.h \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRTwitterAuthProvider.h \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRUser.h \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRUserInfo.h \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRUserMetadata.h \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRPhoneAuthCredential.h \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRPhoneAuthProvider.h \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRPhoneMultiFactorAssertion.h \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRPhoneMultiFactorGenerator.h \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRPhoneMultiFactorInfo.h \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRTOTPMultiFactorAssertion.h \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRTOTPMultiFactorGenerator.h \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRTOTPSecret.h \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/ios/Pods/Firebase/CoreOnly/Sources/Firebase.h \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/firebase_core/firebase_core.framework/Modules/module.modulemap \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/firebase_core/firebase_core.framework/Headers/firebase_core-umbrella.h \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/firebase_core/firebase_core.framework/Headers/FLTFirebaseCorePlugin.h \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/firebase_core/firebase_core.framework/Headers/FLTFirebasePlugin.h \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/firebase_core/firebase_core.framework/Headers/messages.g.h \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/firebase_core/firebase_core.framework/Headers/FLTFirebasePluginRegistry.h \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/firebase_auth/firebase_auth.framework/Headers/firebase_auth-umbrella.h \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/firebase_auth/firebase_auth.framework/Headers/FLTAuthStateChannelStreamHandler.h \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/firebase_auth/firebase_auth.framework/Headers/CustomPigeonHeader.h \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/firebase_auth/firebase_auth.framework/Headers/firebase_auth_messages.g.h \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/firebase_auth/firebase_auth.framework/Headers/PigeonParser.h \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/firebase_auth/firebase_auth.framework/Headers/FLTIdTokenChannelStreamHandler.h \
+  /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/firebase_auth/firebase_auth.framework/Headers/FLTPhoneNumberVerificationStreamHandler.h \
   /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/shared_preferences_foundation/shared_preferences_foundation.framework/Modules/module.modulemap \
   /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/shared_preferences_foundation/shared_preferences_foundation.framework/Headers/shared_preferences_foundation-umbrella.h \
   /Users/mac/Desktop/Flutter\ Projects/mvvm_theme_switching/build/ios/Debug-iphonesimulator/shared_preferences_foundation/shared_preferences_foundation.framework/Headers/shared_preferences_foundation-Swift.h

@@ -1,15 +1,19 @@
+import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
+import 'package:mvvm_theme_switching/firebase_options.dart';
 import 'package:mvvm_theme_switching/res/app_theme.dart';
 import 'package:mvvm_theme_switching/utils/LoggerHelpers.dart';
 import 'package:mvvm_theme_switching/utils/routes/routes.dart';
 import 'package:mvvm_theme_switching/utils/routes/routes_name.dart';
 import 'package:mvvm_theme_switching/view/screens/demo_screen.dart';
+import 'package:mvvm_theme_switching/view_model/auth_view_model.dart';
 import 'package:mvvm_theme_switching/view_model/theme_view_model.dart';
 import 'package:provider/provider.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   ThemeViewModel theme = ThemeViewModel();
+  await Firebase.initializeApp( options: DefaultFirebaseOptions.currentPlatform);
   await theme.getTheme();
   runApp(MyApp(theme: theme,));
 }
@@ -23,7 +27,8 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MultiProvider(
       providers: [
-        ChangeNotifierProvider(create: (context) => theme,)
+        ChangeNotifierProvider(create: (context) => theme,),
+        ChangeNotifierProvider(create: (context) => AuthViewModel(),)
       ],
       child: Consumer<ThemeViewModel>(
         builder: (context, provider, child)  {
@@ -34,7 +39,7 @@ class MyApp extends StatelessWidget {
             theme: AppTheme.lightTheme,
               darkTheme: AppTheme.darkTheme,
               themeMode: provider.themeMode,
-              initialRoute: RoutesName.demo,
+              initialRoute: RoutesName.login,
               onGenerateRoute:  Routes.generateRoute
           );
         }

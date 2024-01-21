@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "501452544685",
+    "project_id": "proapplikeio",
+    "storage_bucket": "proapplikeio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501452544685:android:66f2892d2f6037d9888424",
+        "android_client_info": {
+          "package_name": "com.example.mvvm_theme_switching"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501452544685-uehjudin7ushvr1e58rqfukdgors0mtq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBEfJKH2dtMccePXs3VtlV2sMVm_HXLYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501452544685-uehjudin7ushvr1e58rqfukdgors0mtq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501452544685:android:0c5756a84186f85c888424",
+        "android_client_info": {
+          "package_name": "com.kc.airecipegenerator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501452544685-uehjudin7ushvr1e58rqfukdgors0mtq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBEfJKH2dtMccePXs3VtlV2sMVm_HXLYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501452544685-uehjudin7ushvr1e58rqfukdgors0mtq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
